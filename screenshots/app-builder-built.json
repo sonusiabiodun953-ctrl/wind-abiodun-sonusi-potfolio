@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sonusi Abiodun — Data Analyst",
+      "hasCanvas": false,
+      "bodyTextLen": 6075,
+      "bodyTextHash": "ee45c44c43180d9c4d3cc98c81e357789f76b5817e9d4dc36aae2d71de142791",
+      "bodyTextPrefix": "Skip to content SA Sonusi Abiodun Data analyst About Skills Proj",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sonusi Abiodun — Data Analyst",
+      "hasCanvas": false,
+      "bodyTextLen": 5607,
+      "bodyTextHash": "e6b6057013be2c49320d4562009266195bed86a6fa659fac1c357f0aeb649af8",
+      "bodyTextPrefix": "Skip to content SA Sonusi Abiodun Data analyst Open menu PORTFOL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
